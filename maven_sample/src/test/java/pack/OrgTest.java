@@ -13,6 +13,7 @@ public class OrgTest {
 	
 	@Test(groups = "RegressionTest")
 	public void ModifyOrgTest() {
-		System.out.println("create org");
+		System.out.println("create new org");
+	
 	}
 }
